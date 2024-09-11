@@ -32,11 +32,3 @@ Development of a mobile application for convenient access and usage on smartphon
 Integration of user feedback and data collection to continuously enhance the recommendation system's performance.
 Contributing
 Contributions to the project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them through the issue tracker on the GitHub repository.
-
-
-
-# Acknowledgements
-We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
-
-# Contact
-For any inquiries or questions, please contact us at 611noorsaeed@gmail.com
